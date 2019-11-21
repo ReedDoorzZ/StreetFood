@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DetailFood"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_detail_food">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+
+                <ImageView
+                    android:id="@+id/imgDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/takoyaki" />
+            </android.support.v7.widget.CardView>
+
+
+            <TextView
+                android:id="@+id/txtJudul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:fontFamily="casual"
+                android:text="Alpukat"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="@android:dimen/app_icon_size"
+                android:paddingTop="@android:dimen/app_icon_size"
+                android:paddingBottom="@android:dimen/app_icon_size"
+                android:text="Cerita Nabi Muhammad SAW ini merupakan lanjutan dari cerita sebelumnya yang berjudul Nabi Muhammad s.a w menjadi suami Siti Khadijah
+
+Nabi Muhammad s.a.w sejak masih kanak-kanak hingga dewasa, bahkan sampai menjadi Rasul, beliau memang sudah terkenal akan kejujurannya, berbudi pekerti luhur dan mempunyai kepribadian yang tinggi. Disamping itu beliau sejak kecilnya sampai dewasa tidak pernah menyembah berhala dan tidak pula pernah memakan daging korban untuk berhala-berhala itu sebagaimana kebiasaan orang Arab Jahiliyah ketika itu. Beliau memang sangat benci kepada berhala-berhala itu dan menjauhkan diri dari keramaian dan upacara-upacara pemujaan berhala. Akan keluhuran budi pekerti dan kejujurannya yang nyata itu, sehingga beliau disebut-sebut . orang “Al Amin” yang artinya “Orang yang dapat dipercaya”. Atas pemberian gelar itu, karena panah terjadi kerusakan Ka’bah semasa beliau berumur 35 tahun.
+Setelah selesai pembangunan Kabah, persoalan baru telah menyusul, yaitu mengenai Hajar Aswad yang terlepas dari tempatnya semula. Karena Hajar Aswad itu adalah batu yang mulia, maka yang berhak mengembalikan haruslah orang yang mulia juga. Juga karena mereka masing-masing merasa bahwa dirinyalah yang mulia, maka masing-masing merasa lebih berhak untuk meletakkan batu itu ketempatnya semula. Oleh sebab itu, sehingga hampir saja mendatangkan keributan yang besar diantara mereka.
+
+Dalam keadaan yang demikian, ada seorang tua diantara mereka yang mencegah agar jangan berebutan, karena hal itu akan menimbulkan sesuatu yang tidak diinginkan. Dan ia pun memberi pandangan, lebih baik mencari seorang hakim yang untuk memutuskan masalah ini dan supaya memilih siapa saja yang pertama masuk ke masjidil haram di pagi hari, maka orang itulah dijadikan hakim.
+
+Rupanya mereka menyetujui pendapat orang tua itu dan keesokan harinya ternyata yang pertama masuk masjid itu adalah Muhammad s .a. w. Maka kepada beliaulah masalah itu diadukan dan agar mau mengatur secara adil serta bijaksana, agar tidak terjadi perselisihan diantara mereka. Setelah ditemukan jalan keluarnya, kemudian beliau menghamparkan sehelai kain dan meletakkan Hajar Aswad diatasnya.
+
+Setelah itu juga beliau menyuruh pemuka-pemuka Quraisy untuk mengambil setiap sudut kain itu dan mengangkatnya bersama-sama. Dengan jalan demikian, tiadalah perselisihan diantara mereka dan atas keputusan Muhammad s.a.w itu mereka merasa puas, karena mereka yang menggotong batu itu, masing-masing merasa menjadi orang mulia. Sejak itulah orang-orang Quraisy memberikan kepada Muhammad$.a.w gelar “Al-Amin”. Mereka mempercayai Nabi Muhammad s a w sebagai hakim yang adil dan bijaksana serta dapat mencegah timbulnya perselisihan diantara mereka. Hanya saja mereka membenci dan memusuhinya, karena beliau selalu saja melarang mereka untuk menyembah berhala yang dipuja-puja mereka dan nenek moyangnya"
+                android:textColor="#000000" />
+        </LinearLayout>
+    </ScrollView>
+
+</ScrollView>

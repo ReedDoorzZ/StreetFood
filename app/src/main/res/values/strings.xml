@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Street Food</string>
+
+    <string-array name="namafood">
+        <item>Nasi Goreng</item>
+        <item>Sate Padang</item>
+        <item>Siomay</item>
+        <item>Rendang</item>
+        <item>Kerak Telur</item>
+        <item>Ketoprak</item>
+        <item>Martabak</item>
+        <item>Bakso</item>
+        <item>Gado - Gado</item>
+        <item>Gulai</item>
+    </string-array>
+
+    <string-array name="judul">
+        <item>Nasi Goreng</item>
+        <item>Sate Padang</item>
+        <item>Siomay</item>
+        <item>Rendang</item>
+        <item>Kerak Telur</item>
+        <item>Ketoprak</item>
+        <item>Martabak</item>
+        <item>Bakso</item>
+        <item>Gado - Gado</item>
+        <item>Gulai</item>
+    </string-array>
+
+    <string-array name="deskripsifood">
+        <item>Nasi Goreng or fried rice is a favourite with the locals. This rice dish is a perfect combination of numerous Indonesian spices, which also consists of shredded omelette, meat, prawns, shallots and veggies.
+              One needs to head straight to Nasi Goreng Kebuli Apjay to get a taste of a classic nasi goreng. As the name suggests, this version of nasi goreng combines middle eastern and Indian spices to come up with a unique blend of Nasi Goreng Kebuli and is a must-try for all the spice lovers out there.</item>
+        <item>Sate is a typical Indonesian street delicacy composing of juicy meat cubes and organs wrapped around skewers, bursting of authentic Indonesian flavours, grilled over hot charcoal. Its distinguishing feature is the thick spicy sauce and tender meat, cooked in a paste of lemongrass and shallots among the other common ingredients. One can choose from an array of beef, intestines, tongues, etc.
+              There are several kinds of Sate, and among the most popular ones is Sate Padang, which initially originated in Padang, Sumatra. Ajo Ramon stands out among all the other stalls selling this speciality and has endeared itself to the taste palettes of millions of Indonesians as well as tourists.</item>
+        <item>Inspired by the Chinese origin, Siomay is dumplings made of mackerel fish, which might be substituted for meats or shrimps. It is served with steamed tofu, cabbage, boiled eggs and peanut sauce or chilli sauce. This dish is a must-try recipe, if you are a fan of dumplings and is readily available in almost every food stall.</item>
+        <item>West Sumatra is famous for being the origin of several kinds of cuisines, and one of them happens to be a dish called Rendang. The original form of rendang uses beef, but there have been several variations, according to the tastes and preferences of the customers. Beef Rendang is a concoction of Indonesian herbs and spices, which is simmered for a few hours until the meat completely absorbs all the flavours into it. It tastes best with a plate of hot coconut milk rice, also referred to as Nasi Lemak. This dish is an explosion of a myriad of flavours and is arguably one of the most famous foods in Indonesia, according to a recent poll.</item>
+        <item>Kerak Telor is a trendy snack among Indonesians but is prominently found only outside certain iconic spots. It is cooked by itinerant vendors in a small pan over charcoal. It looks a lot like an omelette rice mixture with a variety of seasonings, coconut being a dominant one and loads of fried shallots. The vendor first grills a portion of sticky rice along with shallots, shredded coconuts and choice of meat, which is simmered on charcoal. It is then garnished and served hot on a paper.</item>
+        <item>Ketoprak is a vermicelli noodle dish, made with tofu, sweet soy sauce, sprouts covered in peanut sauce and veggies. It is an absolute favourite among locals, and almost all street stalls offer Ketoprak, but one of the most popular joints is Ketoprak Ciragil. They garnish the original Ketoprak dish with a delectable sweet sauce and a sunny side up, which never fails to impress the customers.</item>
+        <item>Often referred to as the King of Indonesian Street food, martabak has two variants, savoury and sweet. The savoury martabak is made of white flour dough stuffed with eggs and your choice of meat such as beef, chicken or mutton. The Martabak is then fried, cut into squares and garnished with chillies and coriander, further served hot with a spicy curry dip. The sweet variant, on the other hand, known as Martabak Manis, is like a pancake with toppings like vanilla, choco chips, peanuts, sprinkles, Nutella etc. It is a perfect dessert for a stroll after a delicious meal.</item>
+        <item>Bakso, also known as Baso, is a meatball soup dish, and is favourite street food in Indonesia amongst locals. It is served in two variations, Mie Bakso, which is the Indonesian style Bakso and Bakso Kuah, the Chinese variant. The only difference is that Mie Bakso is served with your choice of noodles, yellow or white, whereas Bakso Kuah is served without noodles. Either way, the meatballs are the heroes of this dish. The perfect taste, bounce and texture make it one of the most popular street food in Indonesia.</item>
+        <item>It is one of the healthiest dishes out there on the streets of Indonesia and vegetarians swear by it. It is a potpourri of greens, tofu, drizzled with a thick spicy peanut sauce and finally garnished with some sliced eggs, fried onions and prawn crackers. Even though it sounds like a side salad dish but the locals have it as a main dish. Gado-Gado Bon-Bin is one of the oldest places serving Gado Gado and is still the best in quality and quantity since the 1970s. Unlike the usual, Bon-Bin’s peanut sauce is all savoury, and the texture is not so thick like the ordinary but is smooth.</item>
+        <item>Gulai, a savoury, is a curry made up of rich, creamy gravy with succulent meats like chicken, beef, mutton and sometimes even prawns and garnished with dollops of spicy sauce, coriander and curry leaves. Gulai Tikungan is a junction, famous for Gulai, where a group of 15 vendors put up their stalls and this place has been attracting large crowds ever since it was established. Gulai is best described as a burst of flavours, and the strong fragrance is bound to make you crave for a large bowl of gulai.</item>
+    </string-array>
+    <string name="title_activity_detail_food">DetailFood</string>
+    <string name="action_settings">Setting</string>
+</resources>
